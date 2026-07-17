@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=false&color=fae5ca&center=true&vCenter=true&width=850&height=200&lines=Beauty+Hunt.;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;and+everyone+I+interact+with!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=true&color=fae5ca&center=true&vCenter=true&width=850&height=200&lines=Beauty+Hunt.;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;and+everyone+I+interact+with!" />
 </p>
 
 <p align="center">

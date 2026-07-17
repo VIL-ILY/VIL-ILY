@@ -1,7 +1,7 @@
 <h2 align="center">
   <img src="https://github.com/user-attachments/assets/06e6be27-4ad6-4216-8dc3-feb586a211e2" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=true&color=fae5ca&center=true&vCenter=true&width=200&height=40&lines=Welcome+%3E%E2%A9%8A%3C.%E1%90%9F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=true&color=fae5ca&center=true&vCenter=true&width=200&height=40&lines=Neo+%3E%E2%A9%8A%3C.%E1%90%9F" />
 
 
   <img src="https://github.com/user-attachments/assets/533ea4e9-9448-4f44-aea0-0d4e3f3e3a13" />

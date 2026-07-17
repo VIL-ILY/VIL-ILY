@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=false&color=fae5ca&center=true&vCenter=true&width=850&height=200&lines=Beauty+Hunt.;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;...and+everyone+I+interact+with+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=false&color=fae5ca&center=true&vCenter=true&width=850&height=200&lines=Beauty+Hunt.;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;and+everyone+I+interact+with!" />
 </p>
 
 <p align="center">
@@ -38,12 +38,26 @@ EXTRA Special Mention
 <p align="center">
 ╭──────────────◝ ⩊ ◜──────────────╮
 </p>
+
 <p align="center">
-  <a href="https://github.com/@YunSillyYun">
-    <img src="https://github.com/user-attachments/assets/6c1b446f-8194-43cb-ab2e-151bca9899d2" width="120"><img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/eeb5a908-3af7-47f8-ad08-c977b74faa01" />
+  <a href="https://github.com/Tukoian">
+    <img src="https://github.com/user-attachments/assets/ee11398a-83a4-40f7-b585-d6225f6a0b7e" width="120">
   </a>
-  <br>
-  <sub>🌸Yun
+
+  <a href="https://github.com/YunSillyYun">
+    <img src="https://github.com/user-attachments/assets/14d9306e-3098-4fa6-a11f-40eb0d40fa00" width="110">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cal">Tuko</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/zai">Yun</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 </p>
 <p align="center">
 ╰──────────────────────────────────╯

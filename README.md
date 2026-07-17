@@ -50,10 +50,10 @@ EXTRA Special Mention
 </p>
 
 <p align="center">
-  <a href="https://github.com/cal">Tuko</a>
+  <a href="https://github.com/Tukoian">Tuko</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/zai">Yun</a>
+  <a href="https://github.com/YunSillyYun">Yun</a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 

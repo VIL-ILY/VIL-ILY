@@ -18,17 +18,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=true&color=fae5ca&center=true&vCenter=true&width=850&height=200&lines=Beauty+Hunt.;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;and+everyone+I+interact+with!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=fals&color=fae5ca&center=true&vCenter=true&width=850&height=200&lines=Beauty+Hunt.;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;and+everyone+I+interact+with!" />
 </p>
 
 <p align="center">
-<img width="500" height="173" alt="Image" src="https://github.com/user-attachments/assets/3dac885a-9b9b-486e-9ccc-f9f01379c95a" />
-</p>
+<img align="right" src="https://github.com/user-attachments/assets/f85c4cbf-fffd-443e-8205-ef4c4427976b" width="340">
 
-
-<table>
-<tr>
-<td width="60%" valign="top">
 <h2 align="center">
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/54c1e7a0-fe14-4668-b11a-c5e019923e74" />
 EXTRA Special Mention
@@ -50,10 +45,9 @@ EXTRA Special Mention
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tukoian">Tuko</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/YunSillyYun">Yun</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a #href="https://github.com/Tukoian">Tuko</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a  #href="https://github.com/YunSillyYun">Yun</a>
 </p>
 
 
@@ -61,14 +55,6 @@ EXTRA Special Mention
 <p align="center">
 ╰──────────────────────────────────╯
 </p>
-
-
-</td>
-<td width="40%">
-<img src="https://github.com/user-attachments/assets/96495fb8-8648-427e-a578-ef14acdf0b15">
-</td>
-</tr>
-</table>
 
 <p align="center">
 

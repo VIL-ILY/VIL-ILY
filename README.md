@@ -1,6 +1,9 @@
 <h2 align="center">
   <img src="https://github.com/user-attachments/assets/06e6be27-4ad6-4216-8dc3-feb586a211e2" />
-𝑾𝒆𝒍𝒄𝒐𝒎𝒆!
+
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=true&color=fae5ca&center=true&vCenter=true&width=200&height=40&lines=Welcome+%3E%E2%A9%8A%3C.%E1%90%9F" />
+
+
   <img src="https://github.com/user-attachments/assets/533ea4e9-9448-4f44-aea0-0d4e3f3e3a13" />
 </h2>
 
@@ -13,8 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=VIL-ILY&color=f7dec0&style=flat" />
   <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/9321a27f-9904-4b76-a824-de6832d69fa2" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flowersize=26&pause=1200&duration=1200&color=FFB6C1&center=true&vCenter=true&repeat=false&multiline=true&width=800&height=180&lines=Beauty+Hunt;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;...and+everyone+I+interact+with+%E2%99%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=1200&pause=1200&multiline=true&repeat=false&color=fae5ca&center=true&vCenter=true&width=850&height=200&lines=Beauty+Hunt.;Shoutout+to+all+my+ohanas!;Fanta+%E2%99%A1+Max+%E2%99%A1+Missa;Sam+%E2%99%A1+Tuko+%E2%99%A1+Yohan;Yun+%E2%99%A1+Zai+%E2%99%A1+Xolar;...and+everyone+I+interact+with+" />
 </p>
 
 <p align="center">

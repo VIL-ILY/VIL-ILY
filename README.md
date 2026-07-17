@@ -36,11 +36,11 @@ EXTRA Special Mention
 
 <p align="center">
   <a href="https://github.com/Tukoian">
-    <img src="https://github.com/user-attachments/assets/ee11398a-83a4-40f7-b585-d6225f6a0b7e" width="120">
+    <img src="https://github.com/user-attachments/assets/ee11398a-83a4-40f7-b585-d6225f6a0b7e" width="110">
   </a>
 
   <a href="https://github.com/YunSillyYun">
-    <img src="https://github.com/user-attachments/assets/14d9306e-3098-4fa6-a11f-40eb0d40fa00" width="110">
+    <img src="https://github.com/user-attachments/assets/14d9306e-3098-4fa6-a11f-40eb0d40fa00" width="120">
   </a>
 </p>
 

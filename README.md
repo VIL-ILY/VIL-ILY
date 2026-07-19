@@ -12,13 +12,17 @@
 </p>
 
 <p align="center">
-  <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/466d131a-6268-4ed4-83c6-2829767a86db" />
+  <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/933a15fa-df89-4254-a810-84054928efad" />
   <img src="https://komarev.com/ghpvc/?username=VIL-ILY&color=f7dec0&style=flat&label=&#2716;&#8256;&#10164;" />
   <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/9321a27f-9904-4b76-a824-de6832d69fa2" />
 </p>
 
 <p align="center">
 <img width="305" height="220.5" alt="Image" src="https://github.com/user-attachments/assets/4b5e5082-da0b-4b0a-8633-cbdf40599960" />
+</p>
+
+<p align="center">
+<img width="500" height="173" alt="Image" src="https://github.com/user-attachments/assets/cf1a2ba1-0912-4f8f-abe2-a4d81f05a69d" />
 </p>
 
 <p align="center">
@@ -45,9 +49,9 @@ EXTRA Special Mention
 </p>
 
 <p align="center">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a #href="https://github.com/Tukoian">Tuko</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a #href="https://github.com/Tukoian">Tuko</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a  #href="https://github.com/YunSillyYun">Yun</a>
+  <a  #href="https://github.com/YunSillyYun">Yun</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -65,5 +69,5 @@ EXTRA Special Mention
 </p>
 
 <p align="center">
-<img width="433" height="577" alt="Image" src="https://github.com/user-attachments/assets/0304f3d6-5814-4cc5-b1ee-1a23ee445605" />
+<img width="2300" height="1736" alt="Image" src="https://github.com/user-attachments/assets/570a565c-a7db-4a57-b82d-dc06796bf55c" />
 </p>

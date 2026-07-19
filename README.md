@@ -13,7 +13,7 @@
 
 <p align="center">
   <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/466d131a-6268-4ed4-83c6-2829767a86db" />
-  <img src="https://komarev.com/ghpvc/?username=VIL-ILY&color=f7dec0&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=VIL-ILY&color=f7dec0&style=flat&label=&#2716;&#8256;&#10164;" />
   <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/9321a27f-9904-4b76-a824-de6832d69fa2" />
 </p>
 

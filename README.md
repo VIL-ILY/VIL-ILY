@@ -18,5 +18,5 @@
   <img src="kawaii-ohans.svg" width="500">
 </p>
 <p align="center">
-<img width="500" height="173" alt="Image" src="https://github.com/user-attachments/assets/ee039233-d9d0-4f3d-9f79-539f0e475ff4" />
+<img width="2000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/8529880f-c22f-4896-b136-78496a0c02fc" />
 </p>

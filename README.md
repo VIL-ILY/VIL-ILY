@@ -1,9 +1,3 @@
-<h2 align="center">
-<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/87f69776-22ab-4bf8-b757-bba53792b903" />
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=26&duration=1200&pause=1200&multiline=true&repeat=true&color=3173a6&center=true&vCenter=true&width=200&height=40&lines=Neo+%3E%E2%A9%8A%3C.%E1%90%9F" />
-<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/9635cdf5-699f-4e78-9116-ef1c5a2ce91a" />
-</h2>
-
 <p align="center">
 
 <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/ad622998-07c2-444f-96b9-a205d1051aab" />

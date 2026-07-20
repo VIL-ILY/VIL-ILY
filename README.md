@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-<img width="1920" height="226" alt="Image" src="https://github.com/user-attachments/assets/db7d0e9c-1ab2-4760-b7f4-870582abb779" />
+<p align="center">
+  <img src="love-of-the-hunt.svg" width="700">
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=1500&pause=1500&multiline=true&repeat=true&color=3173a6&center=true&vCenter=true&width=500&height=290&lines=Shoutout+to+all+my+ohanas;especially+.+.+.;Fanta+.+Max+.+Missa+.+Sam;Tuko+.+Xolar+.+Yohan;Yun+.+Zai;love+u+guys+%E2%99%A1"/>
 </p>
 

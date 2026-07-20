@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="love-of-the-hunt.svg" width="500">
+  <img src="love-of-the-hunt.svg" width="1000">
 </p>
 
 <p align="center">
-  <img src="kawaii-ohans.svg" width="500">
+  <img src="kawaii-ohans.svg" width="900">
 </p>
 <p align="center">
 <img width="2000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/8529880f-c22f-4896-b136-78496a0c02fc" />

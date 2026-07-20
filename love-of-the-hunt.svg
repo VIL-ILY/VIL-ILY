@@ -1,46 +1,52 @@
 <svg width="900" height="160" viewBox="0 0 900 160"
-xmlns="http://www.w3.org/2000/svg">
+     xmlns="http://www.w3.org/2000/svg">
 
-<defs>
+  <defs>
 
-<linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#2c5185">
-<animate attributeName="offset"
-values="-1;1"
-dur="6s"
-repeatCount="indefinite"/>
-</stop>
+    <linearGradient id="gradient"
+      gradientUnits="userSpaceOnUse"
+      x1="-1800" y1="0"
+      x2="0" y2="0">
 
-<stop offset="50%" stop-color="#7cacb6">
-<animate attributeName="offset"
-values="0;2"
-dur="6s"
-repeatCount="indefinite"/>
-</stop>
+      <stop offset="0%" stop-color="#2c5185"/>
+      <stop offset="25%" stop-color="#7cacb6"/>
+      <stop offset="50%" stop-color="#d4e2ad"/>
+      <stop offset="75%" stop-color="#7cacb6"/>
+      <stop offset="100%" stop-color="#2c5185"/>
 
-<stop offset="100%" stop-color="#d4e2ad">
-<animate attributeName="offset"
-values="1;3"
-dur="6s"
-repeatCount="indefinite"/>
-</stop>
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        from="0 0"
+        to="900 0"
+        dur="12s"
+        repeatCount="indefinite"/>
 
-</linearGradient>
+    </linearGradient>
 
-</defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<text
-x="50%"
-y="50%"
-dominant-baseline="middle"
-text-anchor="middle"
-fill="url(#gradient)"
-font-size="72"
-font-family="Georgia, serif"
-font-weight="bold">
+  </defs>
 
-Love of the Hunt
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Georgia, serif"
+    font-size="72"
+    font-weight="bold"
+    fill="url(#gradient)"
+    filter="url(#glow)">
 
-</text>
+    Love of the Hunt
+
+  </text>
 
 </svg>

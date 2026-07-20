@@ -15,56 +15,8 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=1500&pause=1500&multiline=true&repeat=true&color=3173a6&center=true&vCenter=true&width=500&height=290&lines=Shoutout+to+all+my+ohanas;especially+.+.+.;Fanta+.+Max+.+Missa+.+Sam;Tuko+.+Xolar+.+Yohan;Yun+.+Zai;love+u+guys+%E2%99%A1"/>
+  <img src="kawaii-ohans.svg" width="500">
 </p>
-
 <p align="center">
 <img width="500" height="173" alt="Image" src="https://github.com/user-attachments/assets/ee039233-d9d0-4f3d-9f79-539f0e475ff4" />
-</p>
-
-<p align="right">
-<img align="right" src="https://github.com/user-attachments/assets/1aa3f143-d1cc-4074-a11f-06bfc70a1706"width=340>
-
-<h2 align="center">
-<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/d2fee549-0e5f-436e-bb69-91ec986b1e9a" />
-EXTRA Special Mention
-<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/5de4b541-8a92-4268-a628-288be9ac4cb2" />
-</h2>
-
-<p align="center">
-╭──────────────◝ ⩊ ◜──────────────╮
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tukoian">
-    <img src="https://github.com/user-attachments/assets/ee11398a-83a4-40f7-b585-d6225f6a0b7e" width="110">
-  </a>
-
-  <a href="https://github.com/YunSillyYun">
-    <img src="https://github.com/user-attachments/assets/14d9306e-3098-4fa6-a11f-40eb0d40fa00" width="120">
-  </a>
-</p>
-
-<p align="center">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a #href="https://github.com/Tukoian">Tuko</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a  #href="https://github.com/YunSillyYun">Yun</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-</p>
-<p align="center">
-╰──────────────────────────────────╯
-</p>
-
-<p align="center">
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/b0eaa893-3576-44c5-86fc-3104fb56545a" />
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/1fabf0d0-b99d-4faa-8871-d6b4e5518557" />
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/945b4e8d-47c9-42e8-9b11-51b295b44cdd" />
-
-</p>
-
-<p align="center">
-<img width="575" height="434" alt="Image" src="https://github.com/user-attachments/assets/70fcc2dd-88c0-4e20-9f26-1ea8b5169c90" />
 </p>

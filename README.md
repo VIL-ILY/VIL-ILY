@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="love-of-the-hunt.svg" width="700">
+  <img src="love-of-the-hunt.svg" width="500">
 </p>
 
 <p align="center">

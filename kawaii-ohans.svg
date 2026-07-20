@@ -90,7 +90,7 @@
       filter="url(#glow)"
       opacity="0">
 
-      Yun ♡ Zai ♡ Xolar
+      Yun ♡ Xolar ♡ Zai
 
       <animate attributeName="opacity"
           values="0;0;1;1;0"

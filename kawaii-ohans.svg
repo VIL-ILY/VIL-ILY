@@ -51,7 +51,7 @@
       <animate attributeName="opacity"
           values="0;1;1;0;0"
           keyTimes="0;0.08;0.28;0.36;1"
-          dur="20s"
+          dur="10s"
           repeatCount="indefinite"/>
 
   </text>
@@ -73,7 +73,7 @@
       <animate attributeName="opacity"
           values="0;0;1;1;0;0"
           keyTimes="0;0.32;0.40;0.60;0.68;1"
-          dur="20s"
+          dur="10s"
           repeatCount="indefinite"/>
 
   </text>
@@ -95,7 +95,7 @@
       <animate attributeName="opacity"
           values="0;0;1;1;0"
           keyTimes="0;0.64;0.72;0.92;1"
-          dur="20s"
+          dur="10s"
           repeatCount="indefinite"/>
 
   </text>

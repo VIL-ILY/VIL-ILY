@@ -1,6 +1,22 @@
 <p align="center">
+  <img src="assets/svgtwo.svg" width="500">
+</p>
 
-<img width="650" height="650" alt="Image" src="https://github.com/user-attachments/assets/ad622998-07c2-444f-96b9-a205d1051aab" />
+<p align="center"
+
+ <img width="20" height="20" alt="jng8p6" src="https://github.com/user-attachments/assets/25c6a088-7d11-49bc-93c0-76385bc18865" />  [title-town](https://github.com/title-town) . [pt-hall-of-media](https://github.com/pt-hall-of-media) . [pt-nominations](https://github.com/pt-nominations) . [pt-medals](https://github.com/pt-medals) <img width="20" height="20" alt="nrhodx" src="https://github.com/user-attachments/assets/984e1b3d-d1b4-460b-a5da-8baf23298ab1" />
+
+
+</p>
+
+
+<p align="center">
+  <img src="assets/crying.svg" width="500">
+</p>
+
+<p align="center">
+
+<img width="50%" alt="upsss-remssovebg-preview" src="https://github.com/user-attachments/assets/4eca5347-7c60-4857-b119-66372a8c3424" />
 
 </p>
 

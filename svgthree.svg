@@ -1,39 +1,20 @@
 <svg width="850" height="85" viewBox="0 0 850 85" xmlns="http://www.w3.org/2000/svg">
- <style>
-    .link {font-family:Georgia,serif;font-size:22px;fill:#7cacb6;text-decoration:underline;}
-.sep {fill: #d4e2ad;
-      font-size: 20px;
-      font-family: Georgia, serif;
-    }
-
-    .link:hover {
-      fill: #d4e2ad;
-    }
+  <style>
+    .link { font-family: Georgia, serif; font-size: 22px; fill: #7cacb6; text-decoration: underline; }
+    .sep { fill: #d4e2ad; font-size: 20px; font-family: Georgia, serif; }
   </style>
 
   <!-- Line 1 -->
   <g transform="translate(425,30)">
-    <a href="https://github.com/title-town">
-      <text x="-245" y="0" class="link" text-anchor="middle">title-town</text>
-    </a>
-
+    <text x="-245" y="0" class="link" text-anchor="middle">title-town</text>
     <text x="-120" y="0" class="sep" text-anchor="middle">⟡</text>
-
-    <a href="https://github.com/pt-hall-of-media">
-      <text x="90" y="0" class="link" text-anchor="middle">pony-town-hall-of-media</text>
-    </a>
+    <text x="90" y="0" class="link" text-anchor="middle">pony-town-hall-of-media</text>
   </g>
 
   <!-- Line 2 -->
   <g transform="translate(425,68)">
-    <a href="https://github.com/pt-nominations">
-      <text x="-80" y="0" class="link" text-anchor="middle">medal-town</text>
-    </a>
-
+    <text x="-80" y="0" class="link" text-anchor="middle">medal-town</text>
     <text x="25" y="0" class="sep" text-anchor="middle">⟡</text>
-
-    <a href="https://github.com/pt-medals">
-      <text x="125" y="0" class="link" text-anchor="middle">pt-medals</text>
-    </a>
+    <text x="125" y="0" class="link" text-anchor="middle">pt-medals</text>
   </g>
 </svg>

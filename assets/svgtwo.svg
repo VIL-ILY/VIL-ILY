@@ -1,0 +1,46 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Moving Gradient -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c5185"/>
+      <stop offset="50%" stop-color="#7cacb6"/>
+      <stop offset="100%" stop-color="#d4e2ad"/>
+
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        values="-0.6 0;0.6 0;-0.6 0"
+        dur="7s"
+        repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Soft Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <text
+    x="50%"
+    y="58%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Palatino Linotype, Georgia, serif"
+    font-size="52"
+    font-style="italic"
+    letter-spacing="2"
+    fill="url(#gradient)"
+    filter="url(#glow)">
+
+    Featured on
+
+  </text>
+
+</svg>

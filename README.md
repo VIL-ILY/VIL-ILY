@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-
+<img width="20%" src="https://github.com/user-attachments/assets/493621b4-abf8-4c2b-964a-9bf8644044bf" />
 <img width="500" height="500" alt="Untitled_design__1_-removebg-preview" src="https://github.com/user-attachments/assets/c9523fc0-931a-42ae-a56e-f486975568ff" />
-
+<img width="20%" alt="IMG_0614" src="https://github.com/user-attachments/assets/b4826a3c-d9c1-4c8a-b27a-38e87e6582c1" />
 </p>
 
 <p align="center">

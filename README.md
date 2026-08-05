@@ -1,4 +1,6 @@
-
+<p align="center">
+ <img width="75%" alt="schizou2" src="https://github.com/user-attachments/assets/a325ec8e-5a9d-467b-a15f-4b754f2be2c6" />
+</p>
 
 <p align="center">
   <img src="assets/svgtwo.svg" width="500">
@@ -31,9 +33,12 @@
 </p>
 
 <p align="center">
-  <img src="kawaii-ohans.svg" width="600">
+  <img src="kawaii-ohans.svg" width="50%">
 </p>
 
+<p align="center">
+  <img width="75%" alt="schizou2 - Copy (2)" src="https://github.com/user-attachments/assets/b84da051-ccd3-4a2f-8f69-813127721d46" />
+</p>
 
 
 

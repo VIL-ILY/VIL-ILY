@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="kawaii-ohans.svg" width="50%">
+  <img src="kawaii-ohans.svg" width="75%">
 </p>
 
 <p align="center">

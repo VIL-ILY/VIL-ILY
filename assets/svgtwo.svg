@@ -4,9 +4,9 @@
 
     <!-- Moving Gradient -->
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2c5185"/>
-      <stop offset="50%" stop-color="#7cacb6"/>
-      <stop offset="100%" stop-color="#d4e2ad"/>
+      <stop offset="0%" stop-color="#4e3d8d"/>
+      <stop offset="50%" stop-color="#77d6df"/>
+      <stop offset="100%" stop-color="#e7efe1"/>
 
       <animateTransform
         attributeName="gradientTransform"

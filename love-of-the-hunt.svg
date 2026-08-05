@@ -1,49 +1,46 @@
-<svg width="800" height="90" viewBox="0 0 900 160"
-     xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
 
-    <linearGradient id="gradient"
-      gradientUnits="userSpaceOnUse"
-      x1="-1800" y1="0"
-      x2="0" y2="0">
+    <linearGradient id="loop">
 
-      <stop offset="0%" stop-color="#e7efe1"/>
-      <stop offset="25%" stop-color="#7cacb6"/>
-      <stop offset="50%" stop-color="#77d6df"/>
-      <stop offset="75%" stop-color="#7cacb6"/>
-      <stop offset="100%" stop-color="#4e3d8d"/>
+      <stop offset="0%">
+        <animate
+          attributeName="stop-color"
+          values="#4e3d8d;#77d6df;#e7efe1;#4e3d8d"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
 
-      <animateTransform
-        attributeName="gradientTransform"
-        type="translate"
-        from="0 0"
-        to="900 0"
-        dur="12s"
-        repeatCount="indefinite"/>
+      <stop offset="50%">
+        <animate
+          attributeName="stop-color"
+          values="#77d6df;#e7efe1;#4e3d8d;#77d6df"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
+
+      <stop offset="100%">
+        <animate
+          attributeName="stop-color"
+          values="#e7efe1;#4e3d8d;#77d6df;#e7efe1"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </stop>
 
     </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
 
   </defs>
 
   <text
-    x="50%"
-    y="50%"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    font-family="Georgia, serif"
+    x="450"
+    y="90"
+    fill="url(#loop)"
     font-size="72"
+    font-family="Georgia"
     font-weight="bold"
-    fill="url(#gradient)"
-    filter="url(#glow)">
+    text-anchor="middle"
+    dominant-baseline="middle">
 
     Love of the Hunt
 

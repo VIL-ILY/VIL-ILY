@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/svgtwo.svg" width="500">
+  <img src="assets/svgtwo.svg" width="120%">
 </p>
 
 <p align="center"
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="love-of-the-hunt.svg" width="1000">
+  <img src="love-of-the-hunt.svg" width="65%">
 </p>
 
 <p align="center">

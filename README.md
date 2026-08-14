@@ -8,7 +8,7 @@
 
 <p align="center"
 
-[title-town](https://github.com/title-town) . [pt-hall-of-media](https://github.com/pt-hall-of-media) . [pt-nominations](https://github.com/pt-nominations) . [pt-medals](https://github.com/pt-medals) . [ponychievements](https://github.com/ponychievements) . [pt-walk-of-fame](https://github.com/pt-walk-of-fame) . [ponytown-nominations](https://github.com/ponytown-nominations) . [FOLKTOWN](https://github.com/FOLKTOWN)
+[title-town](https://github.com/title-town) . [pt-hall-of-media](https://github.com/pt-hall-of-media) . [pt-nominations](https://github.com/pt-nominations) . [pt-medals](https://github.com/pt-medals) . [ponychievements](https://github.com/ponychievements) . [pt-walk-of-fame](https://github.com/pt-walk-of-fame) . [ponytown-nominations](https://github.com/ponytown-nominations) . [FOLKTOWN](https://github.com/FOLKTOWN) . [cosplaytown](https://github.com/cosplaytown)
 
 
 </p>
